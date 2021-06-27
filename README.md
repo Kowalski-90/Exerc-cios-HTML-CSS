@@ -1,2 +1,3 @@
-# Exerc-cios-HTML-CSS
-Exercícios em HTML/CSS e JavaScript
+# Exercícios em HTML/CSS e Javascript
+
+Repositório criado para armazenar os exercícios de criação diversas em HTML com CSS e JavaScript
